@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "793127429752",
+    "project_id": "zmart-c899b",
+    "storage_bucket": "zmart-c899b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793127429752:android:e94f82ccdac2c3a7fbaf8d",
+        "android_client_info": {
+          "package_name": "com.example.emart_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793127429752-dttsd9q2au7q9gaivespik9uat2m0u83.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emart_app",
+            "certificate_hash": "f214c86880fb564eec2560f20f0fa6953999ed45"
+          }
+        },
+        {
+          "client_id": "793127429752-5i8js37alcshrba617kdda5233k9oojs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2diWH-Oq9UG6J_V7bgKT9hpHdA4uKkEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793127429752-5i8js37alcshrba617kdda5233k9oojs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
